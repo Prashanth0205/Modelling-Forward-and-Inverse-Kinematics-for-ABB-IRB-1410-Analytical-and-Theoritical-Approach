@@ -4,4 +4,5 @@ A general theory for modeling industrial robots is discussed and performing forw
 
 Keywords: Inverse Kinematics, Jacobian, Spherical Wrist.
 
-[ABB IRB 1410](ABB%20IRB%201410.jpeg)
+![ABB IRB 1410](ABB%20IRB%201410.jpeg)
+
