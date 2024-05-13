@@ -4,5 +4,4 @@ A general theory for modeling industrial robots is discussed and performing forw
 
 Keywords: Inverse Kinematics, Jacobian, Spherical Wrist.
 
-![ABB-IRB-1410](Modelling-Forward-and-Inverse-Kinematics-for-ABB-IRB-1410-Analytical-and-Theoritical-Approach
-/ABB IRB 1410.jpeg)
+[ABB IRB 1410](ABB%20IRB%201410.jpeg)
